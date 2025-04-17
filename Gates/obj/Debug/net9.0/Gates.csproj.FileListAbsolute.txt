@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Projects/Gates/bin/Debug/net9.0/Gates
+/Users/mac/Desktop/Projects/Gates/bin/Debug/net9.0/Gates.deps.json
+/Users/mac/Desktop/Projects/Gates/bin/Debug/net9.0/Gates.runtimeconfig.json
+/Users/mac/Desktop/Projects/Gates/bin/Debug/net9.0/Gates.dll
+/Users/mac/Desktop/Projects/Gates/bin/Debug/net9.0/Gates.pdb
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.AssemblyInfo.cs
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.dll
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/refint/Gates.dll
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.pdb
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/Gates.genruntimeconfig.cache
+/Users/mac/Desktop/Projects/Gates/obj/Debug/net9.0/ref/Gates.dll
